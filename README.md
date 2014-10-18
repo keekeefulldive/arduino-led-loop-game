@@ -1,5 +1,7 @@
 # Arduino/node.js LED Loop Game
 
+A little game built with an Arduino and node.js. The light bounces back and forth faster and faster--try to hit the button and stop it on the center light!
+
 ## Prerequisites
 
 - Get [node.js](https://nodejs.org)
