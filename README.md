@@ -22,4 +22,4 @@ npm install johnny-five
 
 (I'm super new to this, so let me know if this diagram is total nonsense)
 
-![LED loop game circuit diagram](led_loop_bb.jpgp)
+![LED loop game circuit diagram](led_loop_bb.jpg)
